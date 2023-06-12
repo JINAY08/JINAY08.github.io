@@ -57,4 +57,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
-<embed src="_pages/CV_JinayDagli.pdf" type="application/pdf">
+<object data="/_pages/CV_JinayDagli.pdf" type="application/pdf" width="100%">
+</object>
