@@ -14,5 +14,11 @@ I am also a part of the nanoDC Lab, IIT Gandhinagar, led by [Prof. Joycee Mekie]
 
 I am interested in Machine Learning and Deep Learning from the algorithmic to the hardware level. During my research projects and internships, I have worked on ML hardware focused on DNN Accelerators. Do get in touch if you have also worked (or are working) in the domain :)
 
-## Courses Completed
+## Major Courses Completed
 
+- Digital Systems
+- Data Structures and Algorithms
+- VLSI Design
+- Probability and Random Processes
+- Machine Learning
+- Deep Learning
