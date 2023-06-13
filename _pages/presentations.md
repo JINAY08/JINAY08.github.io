@@ -1,1 +1,4 @@
-- [Project Course (Sem-IV) based on Posit Number System and Approximate Computing]()
+- [Project Course (Sem-IV) based on Posit Number System and Approximate Computing](https://github.com/JINAY08/JINAY08.github.io/blob/master/presentations/POSIT%20Project.pdf)
+- [Project Course (Sem-VI) based on Shape-Pose Disent](https://github.com/JINAY08/JINAY08.github.io/blob/master/presentations/Poster_CS399_Sem2_2023.pdf)
+- [EE 617: VLSI Design Partial Implementation](https://github.com/JINAY08/JINAY08.github.io/blob/master/presentations/VLSI_Partial_Implementation.pptx.pdf)
+- [EE 617: VLSI Design Final Implementation](https://github.com/JINAY08/JINAY08.github.io/blob/master/presentations/VLSI_Final_Presentation.pdf)
