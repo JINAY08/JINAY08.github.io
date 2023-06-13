@@ -11,5 +11,6 @@ author_profile: true
       
   - ## Impact of Operand Ordering in Approximate Multiplication in Neural Networks and Image Processing Applications 
       K. Prasad, **J. Dagli**, N. Shah, M. Pidagannavar, and J. Mekie in **VDAT 2022**.
+      **DOI**: [Link](https://doi.org/10.1007/978-3-031-21514-8_46)
       
 
