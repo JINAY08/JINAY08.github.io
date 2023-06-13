@@ -16,8 +16,8 @@ main:
 #    - title: "Presentations"
 #     url: /_pages/presentations/   
     
-#   - title: "Portfolio"
-#     url: /portfolio/
+  - title: "Presentations"
+    url: /portfolio/
         
 #   - title: "Blogs"
 #     url: /year-archive/
