@@ -19,6 +19,9 @@ I am interested in Machine Learning and Deep Learning from the algorithmic to th
 - Digital Systems
 - Data Structures and Algorithms
 - VLSI Design
-- Probability and Random Processes
 - Machine Learning
 - Deep Learning
+- Probability and Random Processes
+- Analog Circuits
+- Electronic Devices
+
