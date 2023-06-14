@@ -25,6 +25,6 @@ main:
   - title: "CV"
     url: "https://github.com/JINAY08/JINAY08.github.io/blob/master/_pages/CV_JinayDagli.pdf"
     
-#   - title: "Guide"
-#     url: /markdown/
+  - title: "Random"
+    url: /_pages/markdown/
 
