@@ -20,7 +20,7 @@ main:
     url: /_pages/presentations/
         
   - title: "Blogs"
-    url: /year-archive/
+    url: /_pages/blogs/
     
   - title: "CV"
     url: "https://github.com/JINAY08/JINAY08.github.io/blob/master/_pages/CV_JinayDagli.pdf"
