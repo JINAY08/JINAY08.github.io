@@ -2,5 +2,5 @@
 - **Secured the Scholarship for Academic Excellence 2021-22**: Offered by the institute for securing the highest CPI in the discipline.
 - **Secured the Bipin And Rekha Shah Scholarship worth INR 100k**
 - **Dean's List for all Eligible Semesters**:  Dean’s list is awarded by the Dean of Academic Affairs every semester for academic excellence.
-- Only student in a class of 50 to recieve an **A+ grade (11/10 grade points)** for the performance in the course Electromagnetic Waves (EE 311).
+- Only student in a class of 50 to receive an **A+ grade (11/10 grade points)** for the performance in the course Electromagnetic Waves (EE 311).
 - **Excellence award by Deputy Chief Minister, Gujarat**: Awarded to recognize academic excellence in the AISSE examination.
