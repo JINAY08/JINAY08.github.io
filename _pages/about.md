@@ -16,12 +16,14 @@ I am interested in Machine Learning and Deep Learning from the algorithmic to th
 
 ## Major Courses Completed
 
-- Digital Systems
-- Data Structures and Algorithms
+
 - VLSI Design
 - Machine Learning
 - Deep Learning
 - Probability and Random Processes
 - Analog Circuits
+- Digital Systems
+- Data Structures and Algorithms
+- Microprocessors and Embedded Systems
 - Electronic Devices
 
