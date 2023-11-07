@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+  - ## SDR-PUF: Sequence-Dependent Reconfigurable SRAM-based PUF with an exponential CRP space 
+       **J. Dagli**, N. Shah, K. Prasad, and J. Mekie in **VLISD 2024**. (accepted) 
+    
   - ## Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers 
       T. Glint, K. Prasad, **J. Dagli**, K. Gandhi, A. Gupta, V. Patel, N. Shah, and J. Mekie in **ASPDAC 2023**. (Nominated for the Best Paper Award).
       
