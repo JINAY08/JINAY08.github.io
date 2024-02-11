@@ -1,4 +1,4 @@
-- Secured **99.93** percentile in Common Admission Test (CAT 2023). 
+- Secured **99.93** percentile in Common Admission Test (CAT 2023): Received interview calls from all top IIMs (A, B, C, L, K, I). 
 - **Got accepted for the prestigious Summer@EPFL programme** (acceptance rate: 1.5%)
 - **Secured the Scholarship for Academic Excellence 2021-22**: Offered by the institute for securing the highest CPI in the discipline.
 - **Secured the Bipin And Rekha Shah Scholarship worth INR 100k**
